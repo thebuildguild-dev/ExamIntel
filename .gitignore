@@ -85,6 +85,8 @@ temp/
 # Project specific
 structure.txt
 /docs/*.md
+note.txt
+info.md
 
 # GitHub
 .github
